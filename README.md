@@ -6,5 +6,5 @@ Construyo aplicaciones web rápidas y mantenibles con arquitectura y buenas prá
 Actualmente lidero técnicamente proyectos en el Poder Judicial de Tucumán.
 
 ### 🛠️ Stack
-`React` `Next.js` `TypeScript` `TanStack Query` `Zod`
-`Turborepo` `Bun` `Tailwind CSS` `Node.js` `NestJS`
+`React` `Next.js` `TypeScript` `TanStack` `Zod`
+`Turborepo` `Bun` `Tailwind` `Node.js`
